@@ -1,13 +1,11 @@
 html, body {
     margin: 0;
-    height: 100%;
-    width: 100%;
-    background-color: #4280C3;
+    background-color: #4280C3;    
 }
 
 body {
-    background: url('../svg/background.svg');
-    background-size: auto auto;
+    background-image: url('../svg/background.svg');
+    background-size: cover;
     text-align: center;
     color: white;
     font-family: "bradley hand", sans-serif;
@@ -18,7 +16,7 @@ body {
     color: lightgrey;
   }
   main {
-    max-width: 600px;
+    max-width: 900px;
     margin: auto;
   }
   h1 {

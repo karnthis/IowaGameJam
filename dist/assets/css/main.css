@@ -1,6 +1,7 @@
-html, body {
+html,
+body {
     margin: 0;
-    background-color: #4280C3;    
+    background-color: #4280C3;
 }
 
 body {
@@ -11,18 +12,22 @@ body {
     font-family: "bradley hand", sans-serif;
     font-size: 1.4em;
     text-shadow: 0px 0px 4px black, 0px 0px 4px black;
-  }
-  a {
+}
+
+a {
     color: lightgrey;
-  }
-  main {
+}
+
+main {
     max-width: 900px;
     margin: auto;
-  }
-  h1 {
+}
+
+h1 {
     margin: 2em;
     word-spacing: .4em;
-  }
-  img {
+}
+
+img {
     max-width: 100%;
-  }
+}
